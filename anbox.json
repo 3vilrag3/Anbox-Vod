@@ -2,10 +2,10 @@
 "wallpaper": "https://深色壁纸.xxooo.cf/",
 "sites": [      
 {
-"key":"愛瓜",
-"name":"愛瓜",
-"type":4,
-"api":"https://newtv.ggff.net/aigua?token=fhJadO1R"
+"key": "愛瓜",
+"name": "愛瓜",
+"type": 4,
+"api": "https://newtv.ggff.net/aigua?token=fhJadO1R"
 },
 {
 "api": "https://newtv.ggff.net/duboku?token=fhJadO1R",
@@ -15,7 +15,7 @@
 },
 {
 "api": "https://newtv.ggff.net/oule?token=fhJadO1R",
-"key": ". 歐樂影院",
+"key": "歐樂影院",
 "name": "歐樂影院",
 "type": 4
 },     
@@ -26,34 +26,34 @@
 "api": "https://tvbot.dpdns.org/py_jinpai.py"
 },       
 {
-"key":"小蘋果",
-"name":"小蘋果",
-"type":4,
-"api":"https://newtv.ggff.net/pingguo?token=fhJadO1R"
+"key": "小蘋果",
+"name": "小蘋果",
+"type": 4,
+"api": "https://newtv.ggff.net/pingguo?token=fhJadO1R"
 },
 {
-"key":"劇霸",
-"name":"劇霸",
-"type":4,
-"api":"https://newtv.ggff.net/jubaba?token=fhJadO1R"
+"key": "劇霸",
+"name": "劇霸",
+"type": 4,
+"api": "https://newtv.ggff.net/jubaba?token=fhJadO1R"
 },
 {
-"key":"永樂",
-"name":"永樂",
-"type":4,
-"api":"https://newtv.ggff.net/yongle?token=fhJadO1R"
+"key": "永樂",
+"name": "永樂",
+"type": 4,
+"api": "https://newtv.ggff.net/yongle?token=fhJadO1R"
 },
 {
-"key":"優視頻",
-"name":"優視頻",
-"type":4,
-"api":"https://newtv.ggff.net/uvod?token=fhJadO1R"
+"key": "優視頻",
+"name": "優視頻",
+"type": 4,
+"api": "https://newtv.ggff.net/uvod?token=fhJadO1R"
 }, 
 {
-"key":"瓜子",
-"name":"瓜子",
-"type":4,
-"api":"https://newtv.ggff.net/guazi?token=fhJadO1R"
+"key": "瓜子",
+"name": "瓜子",
+"type": 4,
+"api": "https://newtv.ggff.net/guazi?token=fhJadO1R"
 },
 {
 "api": "https://newtv.ggff.net/jianpian?token=P69Phb_y",
@@ -195,10 +195,10 @@
 "changeable": 1
 },
 {
-"key":"暴風",
-"name":"暴風",
-"type":1,
-"api":"https://bfzyapi.com/api.php/provide/vod",
+"key": "暴風",
+"name": "暴風",
+"type": 1,
+"api": "https://bfzyapi.com/api.php/provide/vod",
 "categories": [
 "国产剧", 
 "台湾剧",
