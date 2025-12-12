@@ -2,28 +2,28 @@
   "wallpaper": "https://wp.upx8.com/api.php",
   "sites": [      
   {
-         "api": "https://newtv.ggff.net/aigua?token=P69Phb_y"
-         "key": "愛瓜",
-         "name": "愛瓜",
-         "type": 4,
+     "key": "愛瓜",
+     "name": "愛瓜",
+     "type": 4,
+     "api": "https://newtv.ggff.net/aigua?token=P69Phb_y"
       },
     {
-      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
       "key": "獨播庫",
       "name": "獨播庫",
-      "type": 4
+      "type": 4,
+      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
     },
     {
-      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
       "key": "歐樂影院",
       "name": "歐樂影院",
-      "type": 4
+      "type": 4,
+      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
     },     
     {
-      "api": "https://tvbot.dpdns.org/py_jinpai.py"
       "key": "金牌影院",
       "name": "金牌影院",
-      "type": 3,   
+      "type": 3,
+      "api": "https://tvbot.dpdns.org/py_jinpai.py"
     },       
     {
          "api": "https://newtv.ggff.net/pingguo?token=P69Phb_y"
